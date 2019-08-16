@@ -78,11 +78,11 @@ layout: default
         <div class="row latest-sermons">
             {% for sermon in site.data.sermons limit:2 %}
             <div class="first-sermon col-md-6 col-lg-6 col-sm-12 col-xs-12">
-                <h5 id="sermon-title">{{ sermon.title }}</h5>
+                <h5 id="sermon-title" class="display-4">{{ sermon.title }}</h5>
                 <!--<h6 id="f-scripture"></h6> !-->
-                <h6 id="speaker">{{ sermon.speaker }}</h6>
-                <h6 id="scripture">{{ sermon.scripture }}</h6>
-                <h6 id="date">{{ sermon.date_pretty }}</h6>
+                <h6 id="speaker" class="sermon-sub display-4">{{ sermon.speaker }}</h6>
+                <h6 id="scripture" class="sermon-sub display-4">{{ sermon.scripture }}</h6>
+                <h6 id="date" class="sermon-sub display-4">{{ sermon.date_pretty }}</h6>
                 <audio id="player" src="{{ sermon.path }}" controls style="width: 100%;"></audio>
             </div>
             {% endfor %}

@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-<div class="container">
+<div class="about-us container">
     <div class="row">
         <div class="about-nav col-md-3 col-lg-3">
             <nav class="nav flex-column nav-pills">
@@ -129,7 +129,7 @@ permalink: /about/
                </div>
                <div class="tab-pane fade" id="{{ menu-items[1] | replace: " ", "-" }}" role="tabpanel" aria-labelledby="{{ menu-items[1] | replace: " ", "-" }}-tab">
                    <!--<p>Please click this <a href="assets/Pilgrim%20Tabernacle%20Constitution.pdf" target="_blank" id="cc-link">link</a> to download and view our Church Constitution document.</p>-->
-                   <h4>Foreword</h4>
+                   <h4 class="sub-heading display-4">Foreword</h4>
                    <p>Pilgrim Tabernacle was founded in March 1987.</p>
                    <p>At that time John Sherwood was called by the Church to be the Pastor.</p>
                    <p>The church is independent and self-governing but believes in fellowship and co-operation with churches of like faith and practice and desires to express the real unity existing between such churches.</p>
