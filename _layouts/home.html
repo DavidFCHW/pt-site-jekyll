@@ -1,0 +1,101 @@
+---
+layout: default
+---
+<article class="home-page">
+    <!-- jumbotron with the background image and specific title -->
+    <div class="jumbotron jumbotron-fluid text-white text-center" id="main-jumbo">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <h1 class="display-1">Pilgrim Tabernacle</h1>
+                </div>
+            </div>
+            <p class="lead"><i>"Wherefore Jesus also, that he might sanctify the people with His own blood, suffered without the gate.
+                Let us go forth therefore unto Him without the camp, bearing His reproach.
+                For here have we no continuing city, but we seek one to come." - Hebrews 13:12-14</i></p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row border-bottom pb-2">
+            <div class="home-about col-md-12 col-lg-12 col-xl-12 col-sm-12 col-xs-12">
+                <h4 class="sub-heading display-4">Welcome!</h4>
+                <p>Welcome to Pilgrim Tabernacle! We are sojourners in this world seeking the heavenly kingdom to come in Jesus Christ. As a body of believers, we exist to glorify God through the gospel and hope that the resources on this site will help you believe in the Lord Jesus Christ and to continue believing in Him for eternal life.</p>
+            </div>
+        </div>
+        <br>
+        <h4 class="sub-heading display-4">Our Services</h4>
+        <p>Please join and fellowship with us at the following meetings:</p>
+        <div class="row services border-bottom pb-4">
+            <div class="col-md-4 col-lg-4 col-xl-4 col-sm-12 col-xs-12">
+                <div class="card">
+                    <div class="card-header bg-secondary text-white">
+                        <h4 class="service-title display-4">Sunday Services</h4>
+                    </div>
+                    <div class="card-body">
+                        <p>Worship with us at our Lord's Day services, as we listen to the preaching of God's word, sing hymns and share communion.</p>
+                    </div>
+                    <div class="card-footer bg-secondary text-white">
+                        <p>Services at 10:30am and 6:00pm.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-4 col-xl-4 col-sm-12 col-xs-12">
+                <div class="card">
+                    <div class="card-header bg-secondary text-white">
+                        <h4 class="service-title display-4">Bible Studies</h4>
+                    </div>
+                    <div class="card-body">
+                        <!--<p>Come and worship with us at our Lord's Day services, as we listen the preaching of God's word, sing hymns and break bread.</p>-->
+                        <p>Join us for in depth teaching, study and discussion of God's Word. Refreshments will also be provided!</p>
+                    </div>
+                    <div class="card-footer bg-secondary text-white">
+                        <p>Bible Studies on Tuesdays at 7:00pm.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-4 col-xl-4 col-sm-12 col-xs-12">
+                <div class="card">
+                    <div class="card-header bg-secondary text-white">
+                        <h4 class="service-title display-4">Prayer Meetings</h4>
+                    </div>
+                    <div class="card-body">
+                        <!--<p>Come and worship with us at our Lord's Day services, as we listen the preaching of God's word, sing hymns and break bread.</p>-->
+                        <p>Come and seek the Lord with us at our prayer meetings as we intercede for one another and for God's people.</p>
+                    </div>
+                    <div class="card-footer bg-secondary text-white">
+                        <p>Prayer Meetings on Thursdays at 7:00pm.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="sub-heading display-4">Latest Sermons</h3>
+                <p>Please tune into our latest sermons below. These should be updated weekly in order to keep you constantly feeding on God's Word.</p>
+            </div>
+        </div>
+        <div class="row latest-sermons">
+            {% for sermon in site.data.sermons limit:2 %}
+            <div class="first-sermon col-md-6 col-lg-6 col-sm-12 col-xs-12">
+                <h5 id="sermon-title">{{ sermon.title }}</h5>
+                <!--<h6 id="f-scripture"></h6> !-->
+                <h6 id="speaker">{{ sermon.speaker }}</h6>
+                <h6 id="scripture">{{ sermon.scripture }}</h6>
+                <h6 id="date">{{ sermon.date_pretty }}</h6>
+                <audio id="player" src="{{ sermon.path }}" controls style="width: 100%;"></audio>
+            </div>
+            {% endfor %}
+        </div>
+        <br>
+        <div class="row border-bottom pb-4">
+            <div class="col-md-12 col-lg-12 col-xl-12 col-sm-12 col-xs-12 text-center">
+                <a href="/sermons"><button type="button" class="btn btn-outline-secondary">More sermons</button></a>
+            </div>
+        </div>
+        <br>
+        <h4 class="sub-heading display-4">Find Us</h4>
+    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2478.55788453785!2d-0.17003518463817163!3d51.59466581214044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761a1f271a972f%3A0x91d38d8a527a3ef7!2sPlane+Tree+Walk%2C+London+N2+9JP!5e0!3m2!1sen!2suk!4v1533828782765" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <p class="text-center">Please visit our <a class="text-secondary" href="/location" id="find-us-link">Location</a> page to find out more where meet and the directions.</p>
+</article>

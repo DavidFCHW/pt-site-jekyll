@@ -1,0 +1,69 @@
+html {
+  min-height: 100%;
+  margin: 0;
+  position: relative;
+  body {
+    margin-bottom: 90px;
+    @include media-breakpoint-down(sm) {
+      .display-1 {
+        font-size: 4rem;
+      }
+    }
+
+    .home-page {
+      #main-jumbo {
+        background-image: url("/assets/images/IMAG0100.jpg");
+        background-size: cover;
+        filter: grayscale(50%);
+        min-height: 595px;
+        background-attachment: fixed;
+        background-position: center;
+
+        .container {
+          padding-top: 80px;
+        }
+      }
+
+      .sub-heading {
+        font-size: 2.5rem;
+      }
+
+      .service-title {
+        font-size: 1.5rem;
+      }
+    }
+    .nav-pills > a.active {
+      @extend .bg-secondary;
+      color: white !important;
+    }
+    .accordion {
+      .card {
+        width: 90%;
+        margin: auto;
+        .card-body {
+          text-align: center;
+          audio {
+            width: 75%;
+          }
+          .sermon-speaker {
+
+          }
+        }
+      }
+    }
+
+    .location {
+      #main-heading {
+        font-size: 2.5rem;
+      }
+      .sub-heading {
+        font-size: 1.85rem;
+      }
+    }
+    .footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,26 @@
+<div class="card">
+    <div class="card-header bg-light" id="heading-{{ include.page_num }}">
+        <h6 class="mb-0">
+            <button class="btn btn-outline-light text-dark btn-link" type="button" data-toggle="collapse" data-target="#collapse-{{ include.page_num }}" aria-expanded="true" aria-controls="collapse-{{ include.page_num }}">
+                {{ include.sermon-title }}
+            </button>
+            <span class="float-right mt-2"> {{ include.sermon-date_pretty }} </span>
+        </h6>
+    </div>
+    <div id="collapse-{{ include.page_num }}" class="collapse" aria-labelledby="heading-{{ include.page_num }}" data-parent="#sermon-accordion">
+        <div class="card-body mb-3 mt-2">
+            <audio src={% if sermon.raw_path %}"{{ include.sermon-path }}" {% else %} "{{ include.sermon-path | prepend: "/" }}" {% endif %} class="mb-3" controls></audio><br>
+            <span class="sermon-speaker float-left ml-2">Speaker: {{ include.sermon-speaker }} </span>
+            <span class="sermon-scripture float-right mr-2">Scripture: {{ include.sermon-scripture }} </span>
+        </div>
+    </div>
+</div>
+<!--Check below for the include parameters when including the file.-->
+
+<!--{% include accordion.html
+                    page_num=i
+                    sermon-title=sermon.title
+                    sermon-date_pretty=sermon.date_pretty
+                    sermon-path=sermon.path
+                    sermon-speaker=sermon.speaker
+                    sermon-scripture=sermon.scripture %}-->
