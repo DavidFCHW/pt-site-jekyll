@@ -4,6 +4,7 @@ title: Sermons
 permalink: /sermons/
 ---
 [comment]: (todo: play one audio at a time)
+[comment]: (todo: deal with audio text responsiveness)
 <div class="container">
     <div class="row">
         <div class="col-md-12 col-lg-12">
