@@ -67,4 +67,13 @@ $(document).ready(() => {
         });
     });
 
+    /**
+     * function to play one audio at a time.
+     * source: https://stackoverflow.com/questions/20719550/play-one-html-audio-element-at-a-time
+     */
+    $('audio').on('play', function(){
+        $('audio').not(this).each(function(index, audio){
+            audio.pause();
+        });
+    });
 });
