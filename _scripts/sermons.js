@@ -30,7 +30,7 @@ dbx.filesListFolder({path: '/audio/'}).then(response => {
 
     entries.forEach(entry => {
         let parts = entry.name.split("_");
-        let category = parts[0];
+        // let category = parts[0];
         let date = parts[1].split(".").reverse().join("/");
         if(parts.length < 5){
             console.log(parts); // to see if there are any filenames not following the custom format
