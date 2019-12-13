@@ -32,7 +32,7 @@ $(document).ready(() => {
         $('.card').remove();
         let val = $('#search-box').val().toLowerCase();
         if(val != null) {
-            $.getJSON('/fe-sermons.json', sermons => {
+            $.getJSON('/assets/js/fe-sermons.json', sermons => {
                 let x = 1;
                 sermons.forEach(sermon => {
                     let sermon_search = sermon.title.toLowerCase().trim().includes(val);
@@ -57,7 +57,7 @@ $(document).ready(() => {
     $('.page-buttons').on('click', 'button', function() {
         $('.card').remove();
         let page = $(this).attr('id');
-        $.getJSON('/fe-sermons.json', data => {
+        $.getJSON('/assets/js/fe-sermons.json', data => {
             let page_data = data.filter(sermon => sermon.pages == page);
             let x = 1;
             page_data.forEach(sermon => {
@@ -67,4 +67,13 @@ $(document).ready(() => {
         });
     });
 
+    /**
+     * function to play one audio at a time.
+     * source: https://stackoverflow.com/questions/20719550/play-one-html-audio-element-at-a-time
+     */
+    $('audio').on('play', function(){
+        $('audio').not(this).each(function(index, audio){
+            audio.pause();
+        });
+    });
 });
