@@ -8,7 +8,7 @@ const jsonfs = require('jsonfile'),
     Promise = require('promise'),
     fetch = require('node-fetch'),
     Dropbox = require('dropbox').Dropbox,
-    dbx = new Dropbox({accessToken: 'hTBrKPn7IyAAAAAAAAABDBHycMwP5-f79jyozUCXgNDso7oWK2mz8So_3vo4bkhs', fetch: fetch});
+    dbx = new Dropbox({accessToken: '', fetch: fetch});
 
 
 //Main variables
