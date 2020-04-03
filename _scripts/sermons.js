@@ -16,6 +16,7 @@ var sermons = [];
 var local_sermons = [];
 var sermons_json = __dirname + "/../_data/sermons.json";
 var fe_sermons_json = __dirname + "/../assets/js/fe-sermons.json";
+var root_fe_sermons_json = __dirname + "/../fe-sermons.json";
 var local_sermons_json = __dirname + "/../_data/local-sermons.json";
 let sermons_path = __dirname + "/../assets/audio/";
 let counter = 0; //This is to count the number of entries in the folder (for Dropbox).
@@ -80,6 +81,7 @@ dbx.filesListFolder({path: '/audio/'}).then(response => {
     }
     jsonfs.writeFileSync(sermons_json, sermons,{spaces:4});
     jsonfs.writeFileSync(fe_sermons_json, sermons,{spaces:4});
+    jsonfs.writeFileSync(root_fe_sermons_json, sermons, {spaces:4});
 }).catch(error => console.log(error));
 
 
