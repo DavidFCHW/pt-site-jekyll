@@ -1,5 +1,137 @@
 [
     {
+        "title": "The Crucifixion (1)",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/03/31",
+        "date": "31/03/2020",
+        "date_pretty": "31st Mar 2020",
+        "scripture": "Various Scriptures",
+        "path": "https://www.dropbox.com/s/2jt5mbqilq22zz1/_31.03.2020_John%20Sherwood_Various%20Scriptures_The%20Crucifixion%20%281%29.mp3?raw=1",
+        "raw_path": "/audio/_31.03.2020_John Sherwood_Various Scriptures_The Crucifixion (1).mp3",
+        "pages": 1
+    },
+    {
+        "title": "The Biblical Doctrine of the Trinity",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/03/30",
+        "date": "30/03/2020",
+        "date_pretty": "30th Mar 2020",
+        "scripture": "Various Scriptures",
+        "path": "https://www.dropbox.com/s/ry5myp5srt76p3b/_30.03.2020_John%20Sherwood_Various%20Scriptures_The%20Biblical%20Doctrine%20of%20the%20Trinity.mp3?raw=1",
+        "raw_path": "/audio/_30.03.2020_John Sherwood_Various Scriptures_The Biblical Doctrine of the Trinity.mp3",
+        "pages": 1
+    },
+    {
+        "title": "Sin of Covetousness in the Young Rich Ruler",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/03/01",
+        "date": "01/03/2020",
+        "date_pretty": "1st Mar 2020",
+        "scripture": "Luke 18:18",
+        "path": "https://www.dropbox.com/s/zq569asmbna411y/_01.03.2020_John%20Sherwood_Luke%2018.18_Sin%20of%20Covetousness%20in%20the%20Young%20Rich%20Ruler.mp3?raw=1",
+        "raw_path": "/audio/_01.03.2020_John Sherwood_Luke 18.18_Sin of Covetousness in the Young Rich Ruler.mp3",
+        "pages": 1
+    },
+    {
+        "title": "The Altar the Believer Has",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/02/23",
+        "date": "23/02/2020",
+        "date_pretty": "23rd Feb 2020",
+        "scripture": "Hebrews 13:10",
+        "path": "https://www.dropbox.com/s/lxenblihvshk1t9/_23.02.2020_John%20Sherwood_Hebrews%2013.10_The%20Altar%20the%20Believer%20Has.mp3?raw=1",
+        "raw_path": "/audio/_23.02.2020_John Sherwood_Hebrews 13.10_The Altar the Believer Has.mp3",
+        "pages": 1
+    },
+    {
+        "title": "The Spirituality of the Kingdom of God",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/01/26",
+        "date": "26/01/2020",
+        "date_pretty": "26th Jan 2020",
+        "scripture": "Luke 17:20-18.8",
+        "path": "https://www.dropbox.com/s/xi5ch3kr0oljhyn/LDM_26.01.2020_John%20Sherwood_Luke%2017.20-18.8_The%20Spirituality%20of%20the%20Kingdom%20of%20God.mp3?raw=1",
+        "raw_path": "/audio/LDM_26.01.2020_John Sherwood_Luke 17.20-18.8_The Spirituality of the Kingdom of God.mp3",
+        "pages": 1
+    },
+    {
+        "title": "Preaching the Cross to Lead Men to Repentance",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/01/12",
+        "date": "12/01/2020",
+        "date_pretty": "12th Jan 2020",
+        "scripture": "Acts 2",
+        "path": "https://www.dropbox.com/s/1gudtdg8llj8wrt/LDE_12.01.2020_John%20Sherwood_Acts%202_Preaching%20the%20Cross%20to%20Lead%20Men%20to%20Repentance.mp3?raw=1",
+        "raw_path": "/audio/LDE_12.01.2020_John Sherwood_Acts 2_Preaching the Cross to Lead Men to Repentance.mp3",
+        "pages": 1
+    },
+    {
+        "title": "The Zeal of Paul for Israel's Salvation",
+        "speaker": "John Sherwood",
+        "date_rev": "2020/01/05",
+        "date": "05/01/2020",
+        "date_pretty": "5th Jan 2020",
+        "scripture": "Romans 11",
+        "path": "https://www.dropbox.com/s/caa70477q2fhmx6/LDM_05.01.2020_John%20Sherwood_Romans%2011_The%20Zeal%20of%20Paul%20for%20Israel%27s%20Salvation.mp3?raw=1",
+        "raw_path": "/audio/LDM_05.01.2020_John Sherwood_Romans 11_The Zeal of Paul for Israel's Salvation.mp3",
+        "pages": 1
+    },
+    {
+        "title": "True and False Prophesies",
+        "speaker": "John Sherwood",
+        "date_rev": "2019/12/29",
+        "date": "29/12/2019",
+        "date_pretty": "29th Dec 2019",
+        "scripture": "Jeremiah 23",
+        "path": "https://www.dropbox.com/s/zz992cwq61e2lfq/LDM_29.12.2019_John%20Sherwood_Jeremiah%2023_True%20and%20False%20Prophesies.mp3?raw=1",
+        "raw_path": "/audio/LDM_29.12.2019_John Sherwood_Jeremiah 23_True and False Prophesies.mp3",
+        "pages": 1
+    },
+    {
+        "title": "The Resurrection of the Dead",
+        "speaker": "John Sherwood",
+        "date_rev": "2019/12/29",
+        "date": "29/12/2019",
+        "date_pretty": "29th Dec 2019",
+        "scripture": "1 Corinthians 15:12-58",
+        "path": "https://www.dropbox.com/s/l5q00wmm918mkst/LDE_29.12.2019_John%20Sherwood_1%20Corinthians%2015.12-58_The%20Resurrection%20of%20the%20Dead.mp3?raw=1",
+        "raw_path": "/audio/LDE_29.12.2019_John Sherwood_1 Corinthians 15.12-58_The Resurrection of the Dead.mp3",
+        "pages": 1
+    },
+    {
+        "title": "Light From Galilee",
+        "speaker": "John Sherwood",
+        "date_rev": "2019/12/22",
+        "date": "22/12/2019",
+        "date_pretty": "22nd Dec 2019",
+        "scripture": "Isaiah 9",
+        "path": "https://www.dropbox.com/s/epzcv2gjjwqz6od/LDM_22.12.2019_John%20Sherwood_Isaiah%209_Light%20From%20Galilee.mp3?raw=1",
+        "raw_path": "/audio/LDM_22.12.2019_John Sherwood_Isaiah 9_Light From Galilee.mp3",
+        "pages": 1
+    },
+    {
+        "title": "Wise Men Inquire After Christ",
+        "speaker": "John Sherwood",
+        "date_rev": "2019/12/22",
+        "date": "22/12/2019",
+        "date_pretty": "22nd Dec 2019",
+        "scripture": "Matthew 2",
+        "path": "https://www.dropbox.com/s/w544ag3h52q02md/LDE_22.12.2019_John%20Sherwood_Matthew%202_Wise%20Men%20Inquire%20After%20Christ.mp3?raw=1",
+        "raw_path": "/audio/LDE_22.12.2019_John Sherwood_Matthew 2_Wise Men Inquire After Christ.mp3",
+        "pages": 1
+    },
+    {
+        "title": "The Discipline and Doctrine of Wisdom",
+        "speaker": "John Sherwood",
+        "date_rev": "2019/12/15",
+        "date": "15/12/2019",
+        "date_pretty": "15th Dec 2019",
+        "scripture": "Proverbs 9:1-12",
+        "path": "https://www.dropbox.com/s/jaovtr19qg18nk9/LDM_15.12.2019_John%20Sherwood_Proverbs%209.1-12_The%20Discipline%20and%20Doctrine%20of%20Wisdom.mp3?raw=1",
+        "raw_path": "/audio/LDM_15.12.2019_John Sherwood_Proverbs 9.1-12_The Discipline and Doctrine of Wisdom.mp3",
+        "pages": 1
+    },
+    {
         "title": "The Preparation of the Believer for the Lord's Coming",
         "speaker": "John Sherwood",
         "date_rev": "2019/12/08",
@@ -96,7 +228,7 @@
         "scripture": "John 5:1-15",
         "path": "https://www.dropbox.com/s/bqb565dzr0vt42p/_30.09.2018_John%20Sherwood_John%205.1-15_Healing%20of%20the%20Impotent%20Man.mp3?raw=1",
         "raw_path": "/audio/_30.09.2018_John Sherwood_John 5.1-15_Healing of the Impotent Man.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Trusting in God's Ability",
@@ -107,7 +239,7 @@
         "scripture": "Exodus 4",
         "path": "https://www.dropbox.com/s/nllfgbnnp2lbfel/LDM_07.01.2018_John%20Sherwood_Exodus%204_Trusting%20in%20God%27s%20Ability.mp3?raw=1",
         "raw_path": "/audio/LDM_07.01.2018_John Sherwood_Exodus 4_Trusting in God's Ability.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Glory Belongs to God Not to Men",
@@ -118,7 +250,7 @@
         "scripture": "Judges 7-8",
         "path": "https://www.dropbox.com/s/n83buard2e2f84k/LDM_28.08.2011_John%20Sherwood_Judges%207-8_Glory%20Belongs%20to%20God%20Not%20to%20Men.mp3?raw=1",
         "raw_path": "/audio/LDM_28.08.2011_John Sherwood_Judges 7-8_Glory Belongs to God Not to Men.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "The Son of Man Must Be Lifted Up",
@@ -129,7 +261,7 @@
         "scripture": "John 3:14",
         "path": "https://www.dropbox.com/s/p4qmjjlmhuw6j5u/LDE_21.08.2011_John%20Sherwood_John%203.14_The%20Son%20of%20Man%20Must%20Be%20Lifted%20Up.mp3?raw=1",
         "raw_path": "/audio/LDE_21.08.2011_John Sherwood_John 3.14_The Son of Man Must Be Lifted Up.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Weapon of our Warfare (Part 2)",
@@ -140,7 +272,7 @@
         "scripture": "Jude 7",
         "path": "https://www.dropbox.com/s/nv76uu5eazve1we/LDM_21.08.2011_John%20Sherwood_Jude%207_Weapon%20of%20our%20Warfare%20%28Part%202%29.mp3?raw=1",
         "raw_path": "/audio/LDM_21.08.2011_John Sherwood_Jude 7_Weapon of our Warfare (Part 2).mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Glory in God",
@@ -151,7 +283,7 @@
         "scripture": "Jude 7",
         "path": "https://www.dropbox.com/s/adynz74k3qzqce5/LDM_14.08.2011_John%20Sherwood_Jude%207_Glory%20in%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_14.08.2011_John Sherwood_Jude 7_Glory in God.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Let Us Not Be Weary in Well Doing",
@@ -162,7 +294,7 @@
         "scripture": "Galatians 6:9",
         "path": "https://www.dropbox.com/s/jx203bns73j2ygn/LDE_14.08.2011_John%20Sherwood_Galatians%206.9_Let%20Us%20Not%20Be%20Weary%20in%20Well%20Doing.mp3?raw=1",
         "raw_path": "/audio/LDE_14.08.2011_John Sherwood_Galatians 6.9_Let Us Not Be Weary in Well Doing.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Gideon's Obedience",
@@ -173,7 +305,7 @@
         "scripture": "Judges 6",
         "path": "https://www.dropbox.com/s/uj90bq2xou07lvk/LDM_31.07.2011_John%20Sherwood_Judges%206_Gideon%27s%20Obedience.mp3?raw=1",
         "raw_path": "/audio/LDM_31.07.2011_John Sherwood_Judges 6_Gideon's Obedience.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Corruption of Men",
@@ -184,7 +316,7 @@
         "scripture": "Genesis 6:1-12",
         "path": "https://www.dropbox.com/s/ngldh91c8xr1m6w/LDE_31.07.2011_John%20Sherwood_Genesis%206.1-12_Corruption%20of%20Men.mp3?raw=1",
         "raw_path": "/audio/LDE_31.07.2011_John Sherwood_Genesis 6.1-12_Corruption of Men.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Unity of the Church",
@@ -195,7 +327,7 @@
         "scripture": "Acts 2:37-47",
         "path": "https://www.dropbox.com/s/j1fi71s7c7z1khn/LDE_03.04.2011_John%20Sherwood_Acts%202.37-47_Unity%20of%20the%20Church.mp3?raw=1",
         "raw_path": "/audio/LDE_03.04.2011_John Sherwood_Acts 2.37-47_Unity of the Church.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "God's Sovereignty in Judgement and Salvation",
@@ -206,7 +338,7 @@
         "scripture": "Revelation 5-6",
         "path": "https://www.dropbox.com/s/q099s88lbmwlbwq/LDM_03.04.2011_John%20Sherwood_Revelation%205-6_God%27s%20Sovereignty%20in%20Judgement%20and%20Salvation.mp3?raw=1",
         "raw_path": "/audio/LDM_03.04.2011_John Sherwood_Revelation 5-6_God's Sovereignty in Judgement and Salvation.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Holy Spirit's Work",
@@ -217,7 +349,7 @@
         "scripture": "John 16:8-11",
         "path": "https://www.dropbox.com/s/7maqcq5scsx3x6b/LDE_27.03.2011_John%20Sherwood_John%2016.8-11_Holy%20Spirit%27s%20Work.mp3?raw=1",
         "raw_path": "/audio/LDE_27.03.2011_John Sherwood_John 16.8-11_Holy Spirit's Work.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Wisdom From Above",
@@ -239,7 +371,7 @@
         "scripture": "Matthew 16",
         "path": "https://www.dropbox.com/s/tpgo7cfid9qx5bz/LDM_20.03.2011_John%20Sherwood_Matthew%2016_Church%27s%20Foundation.mp3?raw=1",
         "raw_path": "/audio/LDM_20.03.2011_John Sherwood_Matthew 16_Church's Foundation.mp3",
-        "pages": 1
+        "pages": 2
     },
     {
         "title": "Predetermined Counsel of God",
@@ -316,7 +448,7 @@
         "scripture": "Romans 12",
         "path": "https://www.dropbox.com/s/w5tux71d9nxur9v/LDM_20.02.2011_John%20Sherwood_Romans%2012_Living%20Sacrifice%20Unto%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_20.02.2011_John Sherwood_Romans 12_Living Sacrifice Unto God.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "Thy Greatness Has Made Me Great",
@@ -327,7 +459,7 @@
         "scripture": "Psalm 18 & Galatians 5:22-24",
         "path": "https://www.dropbox.com/s/dg75xr9hmg5hmm4/LDE_20.02.2011_John%20Sherwood_Psalm%2018%20%26%20Galatians%205.22-24_Thy%20Greatness%20Has%20Made%20Me%20Great.mp3?raw=1",
         "raw_path": "/audio/LDE_20.02.2011_John Sherwood_Psalm 18 & Galatians 5.22-24_Thy Greatness Has Made Me Great.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "Messiah in Full Control",
@@ -338,7 +470,7 @@
         "scripture": "John 18:1-12",
         "path": "https://www.dropbox.com/s/4lmwh1ufdtsi2n3/LDE_13.02.2011_E.Cevik_John%2018.1-12_Messiah%20in%20Full%20Control.mp3?raw=1",
         "raw_path": "/audio/LDE_13.02.2011_E.Cevik_John 18.1-12_Messiah in Full Control.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "It's High Time Awake Out of Sleep",
@@ -349,7 +481,7 @@
         "scripture": "Romans 13:11-14",
         "path": "https://www.dropbox.com/s/vuxyb1g2xoswcq0/LDE_06.02.2011_Pe%20Kee_Romans%2013.11-14_It%27s%20High%20Time%20Awake%20Out%20of%20Sleep.mp3?raw=1",
         "raw_path": "/audio/LDE_06.02.2011_Pe Kee_Romans 13.11-14_It's High Time Awake Out of Sleep.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "All Will Be Well",
@@ -360,7 +492,7 @@
         "scripture": "Mark 4:35-41",
         "path": "https://www.dropbox.com/s/5sb2mqwih7ruk6i/LDM_06.02.2011_John%20Sherwood_Mark%204.35-41_All%20Will%20Be%20Well.mp3?raw=1",
         "raw_path": "/audio/LDM_06.02.2011_John Sherwood_Mark 4.35-41_All Will Be Well.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "The Zeal of the LORD",
@@ -371,7 +503,7 @@
         "scripture": "Isaiah 9:1-7",
         "path": "https://www.dropbox.com/s/hhltouel9fzcpl9/LDM_30.01.2011_John%20Sherwood_Isaiah%209.1-7_The%20Zeal%20of%20the%20LORD.mp3?raw=1",
         "raw_path": "/audio/LDM_30.01.2011_John Sherwood_Isaiah 9.1-7_The Zeal of the LORD.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "God's Eternal Purpose",
@@ -382,7 +514,7 @@
         "scripture": "Ephesians 1",
         "path": "https://www.dropbox.com/s/mk43nidps2jaiag/LDE_23.01.2011_John%20Thao_Ephesians%201_God%27s%20Eternal%20Purpose.mp3?raw=1",
         "raw_path": "/audio/LDE_23.01.2011_John Thao_Ephesians 1_God's Eternal Purpose.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "Faith Versus Reason",
@@ -393,7 +525,7 @@
         "scripture": "2 Kings 6:8-23",
         "path": "https://www.dropbox.com/s/02kdeeuq6hfwzb1/LDM_23.01.2011_John%20Sherwood_2%20Kings%206.8-23_Faith%20Versus%20Reason.mp3?raw=1",
         "raw_path": "/audio/LDM_23.01.2011_John Sherwood_2 Kings 6.8-23_Faith Versus Reason.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "The Church of God",
@@ -404,7 +536,7 @@
         "scripture": "1 Peter 2:6",
         "path": "https://www.dropbox.com/s/wt6zenqjyblv56q/LDM_16.01.2011_John%20Sherwood_1%20Peter%202.6_The%20Church%20of%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_16.01.2011_John Sherwood_1 Peter 2.6_The Church of God.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "Our Gathering",
@@ -415,7 +547,7 @@
         "scripture": "John 11:45-52",
         "path": "https://www.dropbox.com/s/yfc4bf1z2duuecy/LDE_16.01.2011_John%20Sherwood_John%2011.45-52_Our%20Gathering.mp3?raw=1",
         "raw_path": "/audio/LDE_16.01.2011_John Sherwood_John 11.45-52_Our Gathering.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "To What End Were You Born?",
@@ -426,7 +558,7 @@
         "scripture": "John 18:37",
         "path": "https://www.dropbox.com/s/vjmm97i6hk2t7r3/LDE_09.01.2011_John%20Sherwood_John%2018.37_To%20What%20End%20Were%20You%20Born%23.mp3?raw=1",
         "raw_path": "/audio/LDE_09.01.2011_John Sherwood_John 18.37_To What End Were You Born#.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "The Power of Gospel",
@@ -437,7 +569,7 @@
         "scripture": "1 Peter 4:17-18",
         "path": "https://www.dropbox.com/s/obndx240w6hamnl/LDM_09.01.2011_John%20Sherwood_1%20Peter%204.17-18_The%20Power%20of%20Gospel.mp3?raw=1",
         "raw_path": "/audio/LDM_09.01.2011_John Sherwood_1 Peter 4.17-18_The Power of Gospel.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "Living Relationship with the Living God",
@@ -459,7 +591,7 @@
         "scripture": "John 12:20-32",
         "path": "https://www.dropbox.com/s/cmwvz8g2if9e4dz/LDM_02.01.2011_John%20Sherwood_John%2012.20-32_We%20Would%20See%20Jesus.mp3?raw=1",
         "raw_path": "/audio/LDM_02.01.2011_John Sherwood_John 12.20-32_We Would See Jesus.mp3",
-        "pages": 2
+        "pages": 3
     },
     {
         "title": "The Purpose of God",
@@ -536,7 +668,7 @@
         "scripture": "Jeremiah 33:8",
         "path": "https://www.dropbox.com/s/nlsuq9f2r7bici3/LDM_05.12.2010_John%20Sherwood_Jeremiah%2033.8_Where%20is%20Our%20Peace%23.mp3?raw=1",
         "raw_path": "/audio/LDM_05.12.2010_John Sherwood_Jeremiah 33.8_Where is Our Peace#.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Sin of Sodom Was Idleness",
@@ -547,7 +679,7 @@
         "scripture": "Ezekiel 16:48-50",
         "path": "https://www.dropbox.com/s/r268rsbhdsxorq6/LDE_28.11.2010_John%20Sherwood_Ezekiel%2016.48-50_Sin%20of%20Sodom%20Was%20Idleness.mp3?raw=1",
         "raw_path": "/audio/LDE_28.11.2010_John Sherwood_Ezekiel 16.48-50_Sin of Sodom Was Idleness.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Application of the Sabbath",
@@ -558,7 +690,7 @@
         "scripture": "Matthew 12:1-8",
         "path": "https://www.dropbox.com/s/lkp8gvsluz4zy60/LDE_21.11.2010_John%20Sherwood_Matthew%2012.1-8_Application%20of%20the%20Sabbath.mp3?raw=1",
         "raw_path": "/audio/LDE_21.11.2010_John Sherwood_Matthew 12.1-8_Application of the Sabbath.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Trusting in God's strength",
@@ -569,7 +701,7 @@
         "scripture": "Isaiah 50",
         "path": "https://www.dropbox.com/s/ad7sufla0qigmh4/LDM_21.11.2010_John%20Sherwood_Isaiah%2050_Trusting%20in%20God%27s%20strength.mp3?raw=1",
         "raw_path": "/audio/LDM_21.11.2010_John Sherwood_Isaiah 50_Trusting in God's strength.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Do You Hear God's Voice?",
@@ -580,7 +712,7 @@
         "scripture": "1 Kings 19:12",
         "path": "https://www.dropbox.com/s/zu0kls95bq47wlm/LDM_14.11.2010_John%20Sherwood_1%20Kings%2019.12_Do%20You%20Hear%20God%27s%20Voice%23.mp3?raw=1",
         "raw_path": "/audio/LDM_14.11.2010_John Sherwood_1 Kings 19.12_Do You Hear God's Voice#.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Apostasy",
@@ -591,7 +723,7 @@
         "scripture": "2 Thessalonians 2",
         "path": "https://www.dropbox.com/s/6cmskdw4ldsh6d6/LDE_14.11.2010_John%20Sherwood_2%20Thessalonians%202_Apostasy.mp3?raw=1",
         "raw_path": "/audio/LDE_14.11.2010_John Sherwood_2 Thessalonians 2_Apostasy.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "You May Know that You Have Eternal Life",
@@ -602,7 +734,7 @@
         "scripture": "1 John 5:13",
         "path": "https://www.dropbox.com/s/bj90k5hpp0ea2la/LDE_07.11.2010_John%20Sherwood_1%20John%205.13_You%20May%20Know%20that%20You%20Have%20Eternal%20Life.mp3?raw=1",
         "raw_path": "/audio/LDE_07.11.2010_John Sherwood_1 John 5.13_You May Know that You Have Eternal Life.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Our Faith in God's Faithfulness",
@@ -613,7 +745,7 @@
         "scripture": "1 Corinthians 1:9",
         "path": "https://www.dropbox.com/s/1tk0e9zicvfe09d/LDE_31.10.2010_E.Cevik_1%20Corinthians%201.9_Our%20Faith%20in%20God%27s%20Faithfulness.mp3?raw=1",
         "raw_path": "/audio/LDE_31.10.2010_E.Cevik_1 Corinthians 1.9_Our Faith in God's Faithfulness.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Security in the Truth",
@@ -624,7 +756,7 @@
         "scripture": "2 Peter 1-2",
         "path": "https://www.dropbox.com/s/zjeqwkijgy4et01/LDM_31.10.2010_E.Cevik_2%20Peter%201-2_Security%20in%20the%20Truth.mp3?raw=1",
         "raw_path": "/audio/LDM_31.10.2010_E.Cevik_2 Peter 1-2_Security in the Truth.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Justice of God",
@@ -635,7 +767,7 @@
         "scripture": "Matthew 25:31-46",
         "path": "https://www.dropbox.com/s/ptgw0ssfrmxcyiw/LDM_24.10.2010_John%20Sherwood_Matthew%2025.31-46_Justice%20of%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_24.10.2010_John Sherwood_Matthew 25.31-46_Justice of God.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Confessing Our Sins",
@@ -646,7 +778,7 @@
         "scripture": "1 John1-2",
         "path": "https://www.dropbox.com/s/nurbejmmp8rfw4y/LDE_24.10.2010_John%20Sherwood_1%20John1-2_Confessing%20Our%20Sins.mp3?raw=1",
         "raw_path": "/audio/LDE_24.10.2010_John Sherwood_1 John1-2_Confessing Our Sins.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Purpose of Being of the Truth",
@@ -657,7 +789,7 @@
         "scripture": "John 18",
         "path": "https://www.dropbox.com/s/dpkf0xk96t6hkkr/LDE_17.10.2010_John%20Sherwood_John%2018_Purpose%20of%20Being%20of%20the%20Truth.mp3?raw=1",
         "raw_path": "/audio/LDE_17.10.2010_John Sherwood_John 18_Purpose of Being of the Truth.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "There is Life for a Look at the Crucified One",
@@ -679,7 +811,7 @@
         "scripture": "Matthew 12:38-45",
         "path": "https://www.dropbox.com/s/1vlxplkmvo2xxvg/LDM_10.10.2010_John%20Sherwood_Matthew%2012.38-45_The%20Sign%20Given%20Unto%20Us.mp3?raw=1",
         "raw_path": "/audio/LDM_10.10.2010_John Sherwood_Matthew 12.38-45_The Sign Given Unto Us.mp3",
-        "pages": 3
+        "pages": 4
     },
     {
         "title": "Sanctified Christian",
@@ -756,7 +888,7 @@
         "scripture": "Acts 9:1-16",
         "path": "https://www.dropbox.com/s/rlewlajfomfdnyr/LDM_18.07.2010_John%20Sherwood_Acts%209.1-16_Vessel%20in%20Master%27s%20Hand.mp3?raw=1",
         "raw_path": "/audio/LDM_18.07.2010_John Sherwood_Acts 9.1-16_Vessel in Master's Hand.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Glory to Come",
@@ -767,7 +899,7 @@
         "scripture": "Haggai 2:9",
         "path": "https://www.dropbox.com/s/3vh71mdb37trdjf/LDE_11.07.2010_John%20Sherwood_Haggai%202.9_Glory%20to%20Come.mp3?raw=1",
         "raw_path": "/audio/LDE_11.07.2010_John Sherwood_Haggai 2.9_Glory to Come.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Where is Our Security?",
@@ -778,7 +910,7 @@
         "scripture": "Haggai 2:9",
         "path": "https://www.dropbox.com/s/hhan7axp7g4339m/LDM_11.07.2010_John%20Sherwood_Haggai%202.9_Where%20is%20Our%20Security%23.mp3?raw=1",
         "raw_path": "/audio/LDM_11.07.2010_John Sherwood_Haggai 2.9_Where is Our Security#.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Our Will and God's Will",
@@ -789,7 +921,7 @@
         "scripture": "Job 42",
         "path": "https://www.dropbox.com/s/x2qymvqgub76y9v/LDE_04.07.2010_John%20Sherwood_Job%2042_Our%20Will%20and%20God%27s%20Will.mp3?raw=1",
         "raw_path": "/audio/LDE_04.07.2010_John Sherwood_Job 42_Our Will and God's Will.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Keeping Faithful",
@@ -800,7 +932,7 @@
         "scripture": "Daniel 1:8",
         "path": "https://www.dropbox.com/s/pje3czynu5h33rt/LDM_27.06.2010_John%20Sherwood_Daniel%201.8_Keeping%20Faithful.mp3?raw=1",
         "raw_path": "/audio/LDM_27.06.2010_John Sherwood_Daniel 1.8_Keeping Faithful.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Being Taken Up With the Lord",
@@ -811,7 +943,7 @@
         "scripture": "Revelation 22:16-17",
         "path": "https://www.dropbox.com/s/2qlcmcgv1enn7aq/LDE_27.06.2010_John%20Sherwood_Revelation%2022.16-17_Being%20Taken%20Up%20With%20the%20Lord.mp3?raw=1",
         "raw_path": "/audio/LDE_27.06.2010_John Sherwood_Revelation 22.16-17_Being Taken Up With the Lord.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Fervent & Faithful Prayer",
@@ -822,7 +954,7 @@
         "scripture": "James 5:16-18",
         "path": "https://www.dropbox.com/s/freq8o8w1ltj2ol/LDE_20.06.2010_John%20Sherwood_James%205.16-18_Fervent%20%26%20Faithful%20Prayer.mp3?raw=1",
         "raw_path": "/audio/LDE_20.06.2010_John Sherwood_James 5.16-18_Fervent & Faithful Prayer.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Plea in the face of God's anger",
@@ -833,7 +965,7 @@
         "scripture": "Psalm 85:6",
         "path": "https://www.dropbox.com/s/lchr997pib9un15/LDM_20.06.2010_John%20Sherwood_Psalm%2085.6_Plea%20in%20the%20face%20of%20God%27s%20anger.mp3?raw=1",
         "raw_path": "/audio/LDM_20.06.2010_John Sherwood_Psalm 85.6_Plea in the face of God's anger.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Jesus Leads the Way in Everything",
@@ -844,7 +976,7 @@
         "scripture": "John 14:6",
         "path": "https://www.dropbox.com/s/hkn3e6gff4vmdl3/LDM_13.06.2010_John%20Sherwood_John%2014.6_Jesus%20Leads%20the%20Way%20in%20Everything.mp3?raw=1",
         "raw_path": "/audio/LDM_13.06.2010_John Sherwood_John 14.6_Jesus Leads the Way in Everything.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Our Testimony",
@@ -855,7 +987,7 @@
         "scripture": "2 Corinthians 1:12",
         "path": "https://www.dropbox.com/s/i2ddgfvjqt9pp22/LDE_13.06.2010_E.Cevik_2%20Corinthians%201.12_Our%20Testimony.mp3?raw=1",
         "raw_path": "/audio/LDE_13.06.2010_E.Cevik_2 Corinthians 1.12_Our Testimony.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "True Fruitful Repentance",
@@ -866,7 +998,7 @@
         "scripture": "Matthew 3",
         "path": "https://www.dropbox.com/s/0byueaui77yl4h9/LDE_06.06.2010_John%20Sherwood_Matthew%203_True%20Fruitful%20Repentance.mp3?raw=1",
         "raw_path": "/audio/LDE_06.06.2010_John Sherwood_Matthew 3_True Fruitful Repentance.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Looking unto Jesus",
@@ -877,7 +1009,7 @@
         "scripture": "Matthew 14:22-33",
         "path": "https://www.dropbox.com/s/qd8m5qlylfjp89m/LDE_30.05.2010_John%20Sherwood_Matthew%2014.22-33_Looking%20unto%20Jesus.mp3?raw=1",
         "raw_path": "/audio/LDE_30.05.2010_John Sherwood_Matthew 14.22-33_Looking unto Jesus.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Covenant Relationship",
@@ -899,7 +1031,7 @@
         "scripture": "Matthew 25:1-13",
         "path": "https://www.dropbox.com/s/7n93mugpp9uudp2/LDM_23.05.2010_John%20Sherwood_Matthew%2025.1-13_The%20Bride%20and%20the%20Bridegroom.mp3?raw=1",
         "raw_path": "/audio/LDM_23.05.2010_John Sherwood_Matthew 25.1-13_The Bride and the Bridegroom.mp3",
-        "pages": 4
+        "pages": 5
     },
     {
         "title": "Perseverance In Our Faith",
@@ -976,7 +1108,7 @@
         "scripture": "Isaiah 6:9-10",
         "path": "https://www.dropbox.com/s/rcnc4gdk5zomzyd/LDM_02.05.2010_John%20Sherwood_Isaiah%206.9-10_Are%20Softened%20or%20Hardened%20in%20Your%20Heart.mp3?raw=1",
         "raw_path": "/audio/LDM_02.05.2010_John Sherwood_Isaiah 6.9-10_Are Softened or Hardened in Your Heart.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Our Obedience and Devotion to Christ",
@@ -987,7 +1119,7 @@
         "scripture": "Matthew 16:24-25",
         "path": "https://www.dropbox.com/s/cd2bndymkndxf7l/LDE_25.04.2010_John%20Sherwood_Matthew%2016.24-25_Our%20Obedience%20and%20Devotion%20to%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDE_25.04.2010_John Sherwood_Matthew 16.24-25_Our Obedience and Devotion to Christ.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "The Leadership of our Lord Jesus Christ",
@@ -998,7 +1130,7 @@
         "scripture": "Isaiah 55:4",
         "path": "https://www.dropbox.com/s/318pg12qo4nvb6i/LDM_25.04.2010_John%20Sherwood_Isaiah%2055.4_The%20Leadership%20of%20our%20Lord%20Jesus%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDM_25.04.2010_John Sherwood_Isaiah 55.4_The Leadership of our Lord Jesus Christ.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Lifting Up Our Soul to God",
@@ -1009,7 +1141,7 @@
         "scripture": "Psalm 25",
         "path": "https://www.dropbox.com/s/230mf1znqm0ger7/LDE_07.03.2010_E.Cevik_Psalm%2025_Lifting%20Up%20Our%20Soul%20to%20God.mp3?raw=1",
         "raw_path": "/audio/LDE_07.03.2010_E.Cevik_Psalm 25_Lifting Up Our Soul to God.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Has God said? (Part 3)",
@@ -1020,7 +1152,7 @@
         "scripture": "Genesis 3:1",
         "path": "https://www.dropbox.com/s/qhpz4dtn7h56boz/LDM_07.03.2010_John%20Sherwood_Genesis%203.1_Has%20God%20said%23%20%28Part%203%29.mp3?raw=1",
         "raw_path": "/audio/LDM_07.03.2010_John Sherwood_Genesis 3.1_Has God said# (Part 3).mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Has God said? (Part 2)",
@@ -1031,7 +1163,7 @@
         "scripture": "Genesis 3:1",
         "path": "https://www.dropbox.com/s/et2414brvd0vjmh/LDM_28.02.2010_John%20Sherwood_Genesis%203.1_Has%20God%20said%23%20%28Part%202%29.mp3?raw=1",
         "raw_path": "/audio/LDM_28.02.2010_John Sherwood_Genesis 3.1_Has God said# (Part 2).mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Bearing Our Cross",
@@ -1042,7 +1174,7 @@
         "scripture": "Matthew 27:32",
         "path": "https://www.dropbox.com/s/92jdgwvkg351emx/LDE_28.02.2010_John%20Sherwood_Matthew%2027.32_Bearing%20Our%20Cross.mp3?raw=1",
         "raw_path": "/audio/LDE_28.02.2010_John Sherwood_Matthew 27.32_Bearing Our Cross.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Has God Said? (Part 1)",
@@ -1053,7 +1185,7 @@
         "scripture": "Genesis 3:1",
         "path": "https://www.dropbox.com/s/jdx47p2wwf3y12b/LDM_21.02.2010_John%20Sherwood_Genesis%203.1_Has%20God%20Said%23%20%28Part%201%29.mp3?raw=1",
         "raw_path": "/audio/LDM_21.02.2010_John Sherwood_Genesis 3.1_Has God Said# (Part 1).mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Chastening",
@@ -1064,7 +1196,7 @@
         "scripture": "Hebrews 12:5-12",
         "path": "https://www.dropbox.com/s/cc8p71hkrngp0st/LDE_21.02.2010_John%20Sherwood_Hebrews%2012.5-12_Chastening.mp3?raw=1",
         "raw_path": "/audio/LDE_21.02.2010_John Sherwood_Hebrews 12.5-12_Chastening.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Help LORD!",
@@ -1075,7 +1207,7 @@
         "scripture": "Psalm 12:1",
         "path": "https://www.dropbox.com/s/8umgbwqqpb2ib3m/LDE_14.02.2010_John%20Sherwood_Psalm%2012.1_Help%20LORD%21.mp3?raw=1",
         "raw_path": "/audio/LDE_14.02.2010_John Sherwood_Psalm 12.1_Help LORD!.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "Giving Glory to God",
@@ -1086,7 +1218,7 @@
         "scripture": "Revelation 14:6-7",
         "path": "https://www.dropbox.com/s/r3u243ajzxr1y0a/LDM_14.02.2010_John%20Sherwood_Revelation%2014.6-7_Giving%20Glory%20to%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_14.02.2010_John Sherwood_Revelation 14.6-7_Giving Glory to God.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "True Repentance",
@@ -1097,7 +1229,7 @@
         "scripture": "Luke 23:39-43",
         "path": "https://www.dropbox.com/s/wi6g0wv4v9iwym2/LDE_07.02.2010_John%20Sherwood_Luke%2023.39-43_True%20Repentance.mp3?raw=1",
         "raw_path": "/audio/LDE_07.02.2010_John Sherwood_Luke 23.39-43_True Repentance.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "The Compassion of Christ",
@@ -1119,7 +1251,7 @@
         "scripture": "2 Peter 1:20-21",
         "path": "https://www.dropbox.com/s/iig9jwc56sp1g8q/LDE_31.01.2010_E.Cevik_2%20Peter%201.20-21_The%20Word%20of%20God.mp3?raw=1",
         "raw_path": "/audio/LDE_31.01.2010_E.Cevik_2 Peter 1.20-21_The Word of God.mp3",
-        "pages": 5
+        "pages": 6
     },
     {
         "title": "The LORD's Love and Care",
@@ -1196,7 +1328,7 @@
         "scripture": "Hebrews 12:18",
         "path": "https://www.dropbox.com/s/sl351q2xx7n2pfc/LDM_29.11.2009_John%20Sherwood_Hebrews%2012.18_The%20Unmoveable%20Kingdom.mp3?raw=1",
         "raw_path": "/audio/LDM_29.11.2009_John Sherwood_Hebrews 12.18_The Unmoveable Kingdom.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "New life to Come",
@@ -1207,7 +1339,7 @@
         "scripture": "Revelation 22",
         "path": "https://www.dropbox.com/s/cewtr6doqmr3g60/LDE_22.11.2009_G.Childress_Revelation%2022_New%20life%20to%20Come.mp3?raw=1",
         "raw_path": "/audio/LDE_22.11.2009_G.Childress_Revelation 22_New life to Come.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Faith Before Reason and Fear",
@@ -1218,7 +1350,7 @@
         "scripture": "Luke 5:1-11",
         "path": "https://www.dropbox.com/s/qp1k6kt8u4ho673/LDM_22.11.2009_G.Childress_Luke%205.1-11_Faith%20Before%20Reason%20and%20Fear.mp3?raw=1",
         "raw_path": "/audio/LDM_22.11.2009_G.Childress_Luke 5.1-11_Faith Before Reason and Fear.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "The Devil's Nature and Believer's Overcoming",
@@ -1229,7 +1361,7 @@
         "scripture": "Revelation 12",
         "path": "https://www.dropbox.com/s/dsc1rk6frjqnzxa/LDE_15.11.2009_John%20Sherwood_Revelation%2012_The%20Devil%27s%20Nature%20and%20Believer%27s%20Overcoming.mp3?raw=1",
         "raw_path": "/audio/LDE_15.11.2009_John Sherwood_Revelation 12_The Devil's Nature and Believer's Overcoming.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Claims of Christ's Authority on the Believer",
@@ -1240,7 +1372,7 @@
         "scripture": "Ephesians 4:7-16",
         "path": "https://www.dropbox.com/s/rhj8qa5yzo6eteo/LDM_15.11.2009_John%20Sherwood_Ephesians%204.7-16_Claims%20of%20Christ%27s%20Authority%20on%20the%20Believer.mp3?raw=1",
         "raw_path": "/audio/LDM_15.11.2009_John Sherwood_Ephesians 4.7-16_Claims of Christ's Authority on the Believer.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Love that Works By Faith",
@@ -1251,7 +1383,7 @@
         "scripture": "John 21",
         "path": "https://www.dropbox.com/s/stz9lck9gp2njpn/LDE_08.11.2009_E.Cevik_John%2021_Love%20that%20Works%20By%20Faith.mp3?raw=1",
         "raw_path": "/audio/LDE_08.11.2009_E.Cevik_John 21_Love that Works By Faith.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Forgiving One Another As God Has Forgiven Us",
@@ -1262,7 +1394,7 @@
         "scripture": "Ephesians 4:32",
         "path": "https://www.dropbox.com/s/jy2nx93fqsofsv9/LDM_08.11.2009_E.Cevik_Ephesians%204.32_Forgiving%20One%20Another%20As%20God%20Has%20Forgiven%20Us.mp3?raw=1",
         "raw_path": "/audio/LDM_08.11.2009_E.Cevik_Ephesians 4.32_Forgiving One Another As God Has Forgiven Us.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Prayer for All Men",
@@ -1273,7 +1405,7 @@
         "scripture": "1 Timothy 2:1",
         "path": "https://www.dropbox.com/s/uvd5puct2z5wwlx/LDE_01.11.2009_John%20Sherwood_1%20Timothy%202.1_Prayer%20for%20All%20Men.mp3?raw=1",
         "raw_path": "/audio/LDE_01.11.2009_John Sherwood_1 Timothy 2.1_Prayer for All Men.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Do This in Rememberance of Me",
@@ -1284,7 +1416,7 @@
         "scripture": "Luke 22:19",
         "path": "https://www.dropbox.com/s/fhxrhjs7fa8n781/LDM_01.11.2009_John%20Sherwood_Luke%2022.19_Do%20This%20in%20Rememberance%20of%20Me.mp3?raw=1",
         "raw_path": "/audio/LDM_01.11.2009_John Sherwood_Luke 22.19_Do This in Rememberance of Me.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Making Disciples of All Nations",
@@ -1295,7 +1427,7 @@
         "scripture": "Matthew 28:19-20",
         "path": "https://www.dropbox.com/s/d2lwkehdpkyr667/LDM_25.10.2009_John%20Sherwood_Matthew%2028.19-20_Making%20Disciples%20of%20All%20Nations.mp3?raw=1",
         "raw_path": "/audio/LDM_25.10.2009_John Sherwood_Matthew 28.19-20_Making Disciples of All Nations.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Prayer for All Men",
@@ -1306,7 +1438,7 @@
         "scripture": "1 Timothy 2:1",
         "path": "https://www.dropbox.com/s/6td11j0f931ac9v/LDE_25.10.2009_John%20Sherwood_1%20Timothy%202.1_Prayer%20for%20All%20Men.mp3?raw=1",
         "raw_path": "/audio/LDE_25.10.2009_John Sherwood_1 Timothy 2.1_Prayer for All Men.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Walking and Delighting in God",
@@ -1317,7 +1449,7 @@
         "scripture": "Psalm 119:41-48",
         "path": "https://www.dropbox.com/s/mgrd3zqsjhsk2ke/LDE_06.09.2009_John%20Sherwood_Psalm%20119.41-48_Walking%20and%20Delighting%20in%20God.mp3?raw=1",
         "raw_path": "/audio/LDE_06.09.2009_John Sherwood_Psalm 119.41-48_Walking and Delighting in God.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "Thou art the Man",
@@ -1339,7 +1471,7 @@
         "scripture": "Psalm 119:33-40",
         "path": "https://www.dropbox.com/s/gmqowbjn06rwnkz/LDE_30.08.2009_John%20Sherwood_Psalm%20119.33-40_Show%20Me%20Thy%20Way.mp3?raw=1",
         "raw_path": "/audio/LDE_30.08.2009_John Sherwood_Psalm 119.33-40_Show Me Thy Way.mp3",
-        "pages": 6
+        "pages": 7
     },
     {
         "title": "The Good Samaritan",
@@ -1416,7 +1548,7 @@
         "scripture": "Genesis 22:1-19",
         "path": "https://www.dropbox.com/s/k6369rlfaz14qcj/LDM_09.08.2009_John%20Sherwood_Genesis%2022.1-19_Receiving%20the%20End%20of%20Your%20Faith.mp3?raw=1",
         "raw_path": "/audio/LDM_09.08.2009_John Sherwood_Genesis 22.1-19_Receiving the End of Your Faith.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Finishing the Race",
@@ -1427,7 +1559,7 @@
         "scripture": "1 Corinthians 9:24",
         "path": "https://www.dropbox.com/s/jkyys9ov4ndarve/LDE_02.08.2009_John%20Sherwood_1%20Corinthians%209.24_Finishing%20the%20Race.mp3?raw=1",
         "raw_path": "/audio/LDE_02.08.2009_John Sherwood_1 Corinthians 9.24_Finishing the Race.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Keeping the Feast",
@@ -1438,7 +1570,7 @@
         "scripture": "1 Corinthians 5:1-8",
         "path": "https://www.dropbox.com/s/cl33lu6z4okvzmc/LDM_02.08.2009_John%20Sherwood_1%20Corinthians%205.1-8_Keeping%20the%20Feast.mp3?raw=1",
         "raw_path": "/audio/LDM_02.08.2009_John Sherwood_1 Corinthians 5.1-8_Keeping the Feast.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Fear Not Little Flock",
@@ -1449,7 +1581,7 @@
         "scripture": "Luke 12:32",
         "path": "https://www.dropbox.com/s/hmc61gw85cwvhai/LDE_26.07.2009_John%20Sherwood_Luke%2012.32_Fear%20Not%20Little%20Flock.mp3?raw=1",
         "raw_path": "/audio/LDE_26.07.2009_John Sherwood_Luke 12.32_Fear Not Little Flock.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "The Apostle and High Priest of our Profession",
@@ -1460,7 +1592,7 @@
         "scripture": "Hebrews 3:1",
         "path": "https://www.dropbox.com/s/i97slcfjt9gusyk/LDM_26.07.2009_John%20Sherwood_Hebrews%203.1_The%20Apostle%20and%20High%20Priest%20of%20our%20Profession.mp3?raw=1",
         "raw_path": "/audio/LDM_26.07.2009_John Sherwood_Hebrews 3.1_The Apostle and High Priest of our Profession.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "That Great Prophet",
@@ -1471,7 +1603,7 @@
         "scripture": "Deuteronomy 18",
         "path": "https://www.dropbox.com/s/2qupkkifzkjuw5x/LDM_19.07.2009_John%20Sherwood_Deuteronomy%2018_That%20Great%20Prophet.mp3?raw=1",
         "raw_path": "/audio/LDM_19.07.2009_John Sherwood_Deuteronomy 18_That Great Prophet.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "But We Will Remember the Name of Our God",
@@ -1482,7 +1614,7 @@
         "scripture": "Psalm 20:7",
         "path": "https://www.dropbox.com/s/2ni5sbde93c2scj/LDE_19.07.2009_John%20Sherwood_Psalm%2020.7_But%20We%20Will%20Remember%20the%20Name%20of%20Our%20God.mp3?raw=1",
         "raw_path": "/audio/LDE_19.07.2009_John Sherwood_Psalm 20.7_But We Will Remember the Name of Our God.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Every Soul Who Hears that Prophet",
@@ -1493,7 +1625,7 @@
         "scripture": "Acts 3:22-23",
         "path": "https://www.dropbox.com/s/byfuycwwpa5u6yo/LDE_12.07.2009_John%20Sherwood_Acts%203.22-23_Every%20Soul%20Who%20Hears%20that%20Prophet.mp3?raw=1",
         "raw_path": "/audio/LDE_12.07.2009_John Sherwood_Acts 3.22-23_Every Soul Who Hears that Prophet.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "The Hour Is Come",
@@ -1504,7 +1636,7 @@
         "scripture": "John 12:20",
         "path": "https://www.dropbox.com/s/ny3ecgzp58zvhbr/LDE_28.06.2009_E.Cevik_John%2012.20_The%20Hour%20Is%20Come.mp3?raw=1",
         "raw_path": "/audio/LDE_28.06.2009_E.Cevik_John 12.20_The Hour Is Come.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Union with Christ",
@@ -1515,7 +1647,7 @@
         "scripture": "Romans 8:35",
         "path": "https://www.dropbox.com/s/mw9ni55zpzbcosx/LDM_28.06.2009_John%20Sherwood_Romans%208.35_Union%20with%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDM_28.06.2009_John Sherwood_Romans 8.35_Union with Christ.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "The Fear for God",
@@ -1526,7 +1658,7 @@
         "scripture": "Revelation 14:7",
         "path": "https://www.dropbox.com/s/f68bte9thygg3ou/LDM_21.06.2009_John%20Sherwood_Revelation%2014.7_The%20Fear%20for%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_21.06.2009_John Sherwood_Revelation 14.7_The Fear for God.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "The Cotinuance of Preaching",
@@ -1537,7 +1669,7 @@
         "scripture": "Acts 14",
         "path": "https://www.dropbox.com/s/4fm5m0pc9gbpgly/LDE_21.06.2009_John%20Sherwood_Acts%2014_The%20Cotinuance%20of%20Preaching.mp3?raw=1",
         "raw_path": "/audio/LDE_21.06.2009_John Sherwood_Acts 14_The Cotinuance of Preaching.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Church in Antioch Pisida",
@@ -1559,7 +1691,7 @@
         "scripture": "Genesis 3:1",
         "path": "https://www.dropbox.com/s/ufjyz9ema2c0mzo/LDM_14.06.2009_John%20Sherwood_Genesis%203.1_Has%20God%20Said%23.mp3?raw=1",
         "raw_path": "/audio/LDM_14.06.2009_John Sherwood_Genesis 3.1_Has God Said#.mp3",
-        "pages": 7
+        "pages": 8
     },
     {
         "title": "Church at Antioch",
@@ -1636,7 +1768,7 @@
         "scripture": "Matthew 16:13-23",
         "path": "https://www.dropbox.com/s/4062ywwz6w1fjy7/LDE_17.05.2009_John%20Sherwood_Matthew%2016.13-23_Confessing%20the%20Lord.mp3?raw=1",
         "raw_path": "/audio/LDE_17.05.2009_John Sherwood_Matthew 16.13-23_Confessing the Lord.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "You Will Not Worship Any Other God",
@@ -1647,7 +1779,7 @@
         "scripture": "Numbers 33:50-56",
         "path": "https://www.dropbox.com/s/07iv8ih8i7gq8ff/LDM_17.05.2009_John%20Sherwood_Numbers%2033.50-56_You%20Will%20Not%20Worship%20Any%20Other%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_17.05.2009_John Sherwood_Numbers 33.50-56_You Will Not Worship Any Other God.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Confusion in Babel and Unity in Jerusalem",
@@ -1658,7 +1790,7 @@
         "scripture": "Genesis 11:1-9",
         "path": "https://www.dropbox.com/s/p88uxce8dw5ijcv/LDE_10.05.2009_John%20Sherwood_Genesis%2011.1-9_Confusion%20in%20Babel%20and%20Unity%20in%20Jerusalem.mp3?raw=1",
         "raw_path": "/audio/LDE_10.05.2009_John Sherwood_Genesis 11.1-9_Confusion in Babel and Unity in Jerusalem.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "God's Judgement on the Wicked and the Christian's Witness",
@@ -1669,7 +1801,7 @@
         "scripture": "Genesis 11 & 19",
         "path": "https://www.dropbox.com/s/587tr03sc6mw5tr/LDE_03.05.2009_John%20Sherwood_Genesis%2011%20%26%2019_God%27s%20Judgement%20on%20the%20Wicked%20and%20the%20Christian%27s%20Witness.mp3?raw=1",
         "raw_path": "/audio/LDE_03.05.2009_John Sherwood_Genesis 11 & 19_God's Judgement on the Wicked and the Christian's Witness.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "The Reality of the Death of Christ",
@@ -1680,7 +1812,7 @@
         "scripture": "Philippians 2:5-11",
         "path": "https://www.dropbox.com/s/tmyr912df1lkyoj/LDM_03.05.2009_John%20Sherwood_Philippians%202.5-11_The%20Reality%20of%20the%20Death%20of%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDM_03.05.2009_John Sherwood_Philippians 2.5-11_The Reality of the Death of Christ.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Connection of the Body to the Head",
@@ -1691,7 +1823,7 @@
         "scripture": "Colossians 1:18-19",
         "path": "https://www.dropbox.com/s/htfsvgs7c11qge7/LDE_26.04.2009_John%20Sherwood_Colossians%201.18-19_Connection%20of%20the%20Body%20to%20the%20Head.mp3?raw=1",
         "raw_path": "/audio/LDE_26.04.2009_John Sherwood_Colossians 1.18-19_Connection of the Body to the Head.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Who is Jesus?",
@@ -1702,7 +1834,7 @@
         "scripture": "John 12:20-50",
         "path": "https://www.dropbox.com/s/9a3fzh2n6ti8ckb/LDM_26.04.2009_John%20Sherwood_John%2012.20-50_Who%20is%20Jesus%23.mp3?raw=1",
         "raw_path": "/audio/LDM_26.04.2009_John Sherwood_John 12.20-50_Who is Jesus#.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Humility of Christ",
@@ -1713,7 +1845,7 @@
         "scripture": "2 Corinthians 8:9",
         "path": "https://www.dropbox.com/s/24vo1hcskoxnyju/LDE_19.04.2009_John%20Sherwood_2%20Corinthians%208.9_Humility%20of%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDE_19.04.2009_John Sherwood_2 Corinthians 8.9_Humility of Christ.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Ascension of Christ",
@@ -1724,7 +1856,7 @@
         "scripture": "Acts 1:1-11",
         "path": "https://www.dropbox.com/s/ro5eo9esqyaz4pl/LDM_19.04.2009_John%20Sherwood_Acts%201.1-11_Ascension%20of%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDM_19.04.2009_John Sherwood_Acts 1.1-11_Ascension of Christ.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Fellowship with Jesus",
@@ -1735,7 +1867,7 @@
         "scripture": "Hebrews 13",
         "path": "https://www.dropbox.com/s/74x7je0zzz92z55/LDM_29.03.2009_John%20Sherwood_Hebrews%2013_Fellowship%20with%20Jesus.mp3?raw=1",
         "raw_path": "/audio/LDM_29.03.2009_John Sherwood_Hebrews 13_Fellowship with Jesus.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Jesus has Declared the Father",
@@ -1746,7 +1878,7 @@
         "scripture": "John 1:18",
         "path": "https://www.dropbox.com/s/2bwpdscqlj5tn1v/LDE_29.03.2009_John%20Sherwood_John%201.18_Jesus%20has%20Declared%20the%20Father.mp3?raw=1",
         "raw_path": "/audio/LDE_29.03.2009_John Sherwood_John 1.18_Jesus has Declared the Father.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Our Light Affliction And Its Working",
@@ -1757,7 +1889,7 @@
         "scripture": "2 Corinthians 4:17",
         "path": "https://www.dropbox.com/s/93cropjftff2idr/LDE_22.03.2009_John%20Sherwood_2%20Corinthians%204.17_Our%20Light%20Affliction%20And%20Its%20Working.mp3?raw=1",
         "raw_path": "/audio/LDE_22.03.2009_John Sherwood_2 Corinthians 4.17_Our Light Affliction And Its Working.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": "Our Lord's Dedication and Service",
@@ -1779,7 +1911,7 @@
         "scripture": "Psalm 119:33-40",
         "path": "https://www.dropbox.com/s/tsbwwzpmncncrg4/LDE_15.03.2009_John%20Sherwood_Psalm%20119.33-40_Desiring%20Holiness.mp3?raw=1",
         "raw_path": "/audio/LDE_15.03.2009_John Sherwood_Psalm 119.33-40_Desiring Holiness.mp3",
-        "pages": 8
+        "pages": 9
     },
     {
         "title": " A True and a False Professor of Faith",
@@ -1856,7 +1988,7 @@
         "scripture": "Job 23:14",
         "path": "https://www.dropbox.com/s/2ogn1v8kyavictz/LDE_22.02.2009_John%20Sherwood_Job%2023.14_He%20Performeth%20the%20Thing%20That%20Is%20Appointed%20for%20Me.mp3?raw=1",
         "raw_path": "/audio/LDE_22.02.2009_John Sherwood_Job 23.14_He Performeth the Thing That Is Appointed for Me.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "The Need to Inquire of the Lord",
@@ -1867,7 +1999,7 @@
         "scripture": "Joshua 9",
         "path": "https://www.dropbox.com/s/5q27242eigbm5zi/LDM_22.02.2009_John%20Sherwood_Joshua%209_The%20Need%20to%20Inquire%20of%20the%20Lord.mp3?raw=1",
         "raw_path": "/audio/LDM_22.02.2009_John Sherwood_Joshua 9_The Need to Inquire of the Lord.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "The Counsel of the LORD Shall Stand",
@@ -1878,7 +2010,7 @@
         "scripture": "Isaiah 46:10",
         "path": "https://www.dropbox.com/s/p95insz4q8fb7r0/LDM_15.02.2009_John%20Sherwood_Isaiah%2046.10_The%20Counsel%20of%20the%20LORD%20Shall%20Stand.mp3?raw=1",
         "raw_path": "/audio/LDM_15.02.2009_John Sherwood_Isaiah 46.10_The Counsel of the LORD Shall Stand.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Compassion of Christ",
@@ -1889,7 +2021,7 @@
         "scripture": "Luke 8:41-48",
         "path": "https://www.dropbox.com/s/5wbz3fb3r3ycpwu/LDE_08.02.2009_John%20Sherwood_Luke%208.41-48_Compassion%20of%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDE_08.02.2009_John Sherwood_Luke 8.41-48_Compassion of Christ.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Priesthood of Jesus Christ",
@@ -1900,7 +2032,7 @@
         "scripture": "Hebrews 6:13-8.5",
         "path": "https://www.dropbox.com/s/sgtuhzvrz1m53bh/LDM_08.02.2009_John%20Sherwood_Hebrews%206.13-8.5_Priesthood%20of%20Jesus%20Christ.mp3?raw=1",
         "raw_path": "/audio/LDM_08.02.2009_John Sherwood_Hebrews 6.13-8.5_Priesthood of Jesus Christ.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "What Shall I Render unto the LORD?",
@@ -1911,7 +2043,7 @@
         "scripture": "Psalm 116:12-13",
         "path": "https://www.dropbox.com/s/m5r1locf1o89639/LDE_01.02.2009_John%20Sherwood_Psalm%20116.12-13_What%20Shall%20I%20Render%20unto%20the%20LORD%23.mp3?raw=1",
         "raw_path": "/audio/LDE_01.02.2009_John Sherwood_Psalm 116.12-13_What Shall I Render unto the LORD#.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Watch Unto The Lord's Coming",
@@ -1922,7 +2054,7 @@
         "scripture": "1 Thessalonians 4:16-18",
         "path": "https://www.dropbox.com/s/gll4n6cgb4j7ecn/LDM_01.02.2009_John%20Sherwood_1%20Thessalonians%204.16-18_Watch%20Unto%20The%20Lord%27s%20Coming.mp3?raw=1",
         "raw_path": "/audio/LDM_01.02.2009_John Sherwood_1 Thessalonians 4.16-18_Watch Unto The Lord's Coming.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Supporting the Ministers",
@@ -1933,7 +2065,7 @@
         "scripture": "Colossians 1:24-29",
         "path": "https://www.dropbox.com/s/k59ag9pnmyl99j7/LDE_25.01.2009_M.Chen_Colossians%201.24-29_Supporting%20the%20Ministers.mp3?raw=1",
         "raw_path": "/audio/LDE_25.01.2009_M.Chen_Colossians 1.24-29_Supporting the Ministers.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Predestination",
@@ -1944,7 +2076,7 @@
         "scripture": "Romans 8:22-9.16",
         "path": "https://www.dropbox.com/s/dzaz3yb5ya937y3/LDM_18.01.2009_John%20Sherwood_Romans%208.22-9.16_Predestination.mp3?raw=1",
         "raw_path": "/audio/LDM_18.01.2009_John Sherwood_Romans 8.22-9.16_Predestination.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Effectual Prayer",
@@ -1955,7 +2087,7 @@
         "scripture": "James 5:16",
         "path": "https://www.dropbox.com/s/vdpuhy69u0zirlo/LDE_18.01.2009_John%20Sherwood_James%205.16_Effectual%20Prayer.mp3?raw=1",
         "raw_path": "/audio/LDE_18.01.2009_John Sherwood_James 5.16_Effectual Prayer.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Church of God cont.",
@@ -1966,7 +2098,7 @@
         "scripture": "Acts 2:41-47",
         "path": "https://www.dropbox.com/s/b8cm81kdljug7nq/LDE_11.01.2009_John%20Sherwood_Acts%202.41-47_Church%20of%20God%20cont..mp3?raw=1",
         "raw_path": "/audio/LDE_11.01.2009_John Sherwood_Acts 2.41-47_Church of God cont..mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Being with Christ in Glory",
@@ -1977,7 +2109,7 @@
         "scripture": "John 17:24",
         "path": "https://www.dropbox.com/s/fkgovq2k8mc9oov/LDM_11.01.2009_John%20Sherwood_John%2017.24_Being%20with%20Christ%20in%20Glory.mp3?raw=1",
         "raw_path": "/audio/LDM_11.01.2009_John Sherwood_John 17.24_Being with Christ in Glory.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Union with One Another",
@@ -1999,7 +2131,7 @@
         "scripture": "John 17",
         "path": "https://www.dropbox.com/s/w7othy0k7zew89l/LDM_04.01.2009_John%20Sherwood_John%2017_Union%20with%20God.mp3?raw=1",
         "raw_path": "/audio/LDM_04.01.2009_John Sherwood_John 17_Union with God.mp3",
-        "pages": 9
+        "pages": 10
     },
     {
         "title": "Faith and Sacrifice",
@@ -2076,7 +2208,7 @@
         "scripture": "Ezekiel 21:27",
         "path": "https://www.dropbox.com/s/mqa51k5d2y7bg9r/LDM_30.11.2008_John%20Sherwood_Ezekiel%2021.27_Until%20He%20Comes%20Whose%20Right%20It%20Is.mp3?raw=1",
         "raw_path": "/audio/LDM_30.11.2008_John Sherwood_Ezekiel 21.27_Until He Comes Whose Right It Is.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Christian's Integrity",
@@ -2087,7 +2219,7 @@
         "scripture": "Job 1:10",
         "path": "https://www.dropbox.com/s/jayzcwpqt6zjfhf/LDE_30.11.2008_John%20Sherwood_Job%201.10_The%20Christian%27s%20Integrity.mp3?raw=1",
         "raw_path": "/audio/LDE_30.11.2008_John Sherwood_Job 1.10_The Christian's Integrity.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "What Do You Will?",
@@ -2098,7 +2230,7 @@
         "scripture": "James 4:13-15",
         "path": "https://www.dropbox.com/s/ghuce592iidvf31/LDM_23.11.2008_John%20Sherwood_James%204.13-15_What%20Do%20You%20Will%23.mp3?raw=1",
         "raw_path": "/audio/LDM_23.11.2008_John Sherwood_James 4.13-15_What Do You Will#.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Church of God (Part 6)",
@@ -2109,7 +2241,7 @@
         "scripture": "Luke 6:38-49",
         "path": "https://www.dropbox.com/s/i8w7hl92re6m341/LDE_23.11.2008_John%20Sherwood_Luke%206.38-49_The%20Church%20of%20God%20%28Part%206%29.mp3?raw=1",
         "raw_path": "/audio/LDE_23.11.2008_John Sherwood_Luke 6.38-49_The Church of God (Part 6).mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Church of God (Part 5)",
@@ -2120,7 +2252,7 @@
         "scripture": "2 Corinthians 8:9",
         "path": "https://www.dropbox.com/s/ykyetqofexvf3oe/LDE_16.11.2008_John%20Sherwood_2%20Corinthians%208.9_The%20Church%20of%20God%20%28Part%205%29.mp3?raw=1",
         "raw_path": "/audio/LDE_16.11.2008_John Sherwood_2 Corinthians 8.9_The Church of God (Part 5).mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "Adoption",
@@ -2131,7 +2263,7 @@
         "scripture": "Ephesians 1:1-5",
         "path": "https://www.dropbox.com/s/240x2xggtm7ofdr/LDM_16.11.2008_John%20Sherwood_Ephesians%201.1-5_Adoption.mp3?raw=1",
         "raw_path": "/audio/LDM_16.11.2008_John Sherwood_Ephesians 1.1-5_Adoption.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "Whoever Finds a Wife Finds a Good Thing",
@@ -2142,7 +2274,7 @@
         "scripture": "Proverbs 18:22",
         "path": "https://www.dropbox.com/s/nphkaijv00hzhl3/BS_11.11.2008_John%20Sherwood_Proverbs%2018.22_Whoever%20Finds%20a%20Wife%20Finds%20a%20Good%20Thing.mp3?raw=1",
         "raw_path": "/audio/BS_11.11.2008_John Sherwood_Proverbs 18.22_Whoever Finds a Wife Finds a Good Thing.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Church of God (Part 4)",
@@ -2153,7 +2285,7 @@
         "scripture": "Ephesians 1",
         "path": "https://www.dropbox.com/s/cclpvu9uwjtn0gw/LDE_09.11.2008_John%20Sherwood_Ephesians%201_The%20Church%20of%20God%20%28Part%204%29.mp3?raw=1",
         "raw_path": "/audio/LDE_09.11.2008_John Sherwood_Ephesians 1_The Church of God (Part 4).mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "Theocracy",
@@ -2164,7 +2296,7 @@
         "scripture": "1 Timothy 6:13-16",
         "path": "https://www.dropbox.com/s/25fktzld784knbn/LDM_09.11.2008_John%20Sherwood_1%20Timothy%206.13-16_Theocracy.mp3?raw=1",
         "raw_path": "/audio/LDM_09.11.2008_John Sherwood_1 Timothy 6.13-16_Theocracy.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Church of God (Part 3)",
@@ -2175,7 +2307,7 @@
         "scripture": "Acts 2:37-47",
         "path": "https://www.dropbox.com/s/1xpsesbdhn6gqya/LDE_02.11.2008_John%20Sherwood_Acts%202.37-47_The%20Church%20of%20God%20%28Part%203%29.mp3?raw=1",
         "raw_path": "/audio/LDE_02.11.2008_John Sherwood_Acts 2.37-47_The Church of God (Part 3).mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Last Supper",
@@ -2186,7 +2318,7 @@
         "scripture": "Luke 22:14-34",
         "path": "https://www.dropbox.com/s/l539tohdm4x86c9/LDM_02.11.2008_John%20Sherwood_Luke%2022.14-34_The%20Last%20Supper.mp3?raw=1",
         "raw_path": "/audio/LDM_02.11.2008_John Sherwood_Luke 22.14-34_The Last Supper.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "Is There No Balm in Gilead?",
@@ -2197,7 +2329,7 @@
         "scripture": "Jeremiah 8:22",
         "path": "https://www.dropbox.com/s/bbu5143p1xvdl6u/LDM_26.10.2008_John%20Sherwood_Jeremiah%208.22_Is%20There%20No%20Balm%20in%20Gilead%23.mp3?raw=1",
         "raw_path": "/audio/LDM_26.10.2008_John Sherwood_Jeremiah 8.22_Is There No Balm in Gilead#.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Church of God (Part 2)",
@@ -2219,7 +2351,7 @@
         "scripture": "Matthew 13:44-46",
         "path": "https://www.dropbox.com/s/az36btn0g9q11ni/LDM_19.10.2008_John%20Sherwood_Matthew%2013.44-46_Pearl%20of%20Great%20Price.mp3?raw=1",
         "raw_path": "/audio/LDM_19.10.2008_John Sherwood_Matthew 13.44-46_Pearl of Great Price.mp3",
-        "pages": 10
+        "pages": 11
     },
     {
         "title": "The Church of God (Part 1)",
@@ -2296,7 +2428,7 @@
         "scripture": "1 Peter 5",
         "path": "https://www.dropbox.com/s/90wifvqx7xukfiv/LDE_28.09.2008_John%20Sherwood_1%20Peter%205_Devil%27s%20Devices%20cont..mp3?raw=1",
         "raw_path": "/audio/LDE_28.09.2008_John Sherwood_1 Peter 5_Devil's Devices cont..mp3",
-        "pages": 11
+        "pages": 12
     },
     {
         "title": "Devil's Devices",
@@ -2307,7 +2439,7 @@
         "scripture": "1 Peter 5",
         "path": "https://www.dropbox.com/s/zlgsfieoea5b91z/LDE_21.09.2008_John%20Sherwood_1%20Peter%205_Devil%27s%20Devices.mp3?raw=1",
         "raw_path": "/audio/LDE_21.09.2008_John Sherwood_1 Peter 5_Devil's Devices.mp3",
-        "pages": 11
+        "pages": 12
     },
     {
         "title": "Assurance",
@@ -2318,7 +2450,7 @@
         "scripture": "1 John 2:1-11",
         "path": "https://www.dropbox.com/s/kegn6tnj48x83fs/LDM_14.09.2008_John%20Sherwood_1%20John%202.1-11_Assurance.mp3?raw=1",
         "raw_path": "/audio/LDM_14.09.2008_John Sherwood_1 John 2.1-11_Assurance.mp3",
-        "pages": 11
+        "pages": 12
     },
     {
         "title": "Has God said? (Part 3)",
@@ -2329,6 +2461,6 @@
         "scripture": "Genesis 3:1",
         "path": "https://www.dropbox.com/s/4vkj79cwp20mjgm/LDM_07.03.10_John%20Sherwood_Genesis%203.1_Has%20God%20said%23%20%28Part%203%29.mp3?raw=1",
         "raw_path": "/audio/LDM_07.03.10_John Sherwood_Genesis 3.1_Has God said# (Part 3).mp3",
-        "pages": 11
+        "pages": 12
     }
 ]
