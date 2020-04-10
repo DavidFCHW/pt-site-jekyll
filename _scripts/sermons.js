@@ -21,6 +21,14 @@ var local_sermons_json = __dirname + "/../_data/local-sermons.json";
 let sermons_path = __dirname + "/../assets/audio/";
 let counter = 0; //This is to count the number of entries in the folder (for Dropbox).
 
+var isDated = function (date) {
+    if(date.toLowerCase() == "undated"){
+        return false;
+    } else {
+        return true;
+    }
+};
+
 //Getting latest sermons from dropbox.
 dbx.filesListFolder({path: '/audio/'}).then(response => {
     let entries = response.entries;
@@ -32,7 +40,13 @@ dbx.filesListFolder({path: '/audio/'}).then(response => {
     entries.forEach(entry => {
         let parts = entry.name.split("_");
         // let category = parts[0];
-        let date = parts[1].split(".").reverse().join("/");
+        let date;
+        if(parts[1].toLowerCase() == "undated"){
+            date = parts[1];
+        } else {
+            date = parts[1].split(".").reverse().join("/");
+        }
+
         if(parts.length < 5){
             console.log(parts); // to see if there are any filenames not following the custom format
         }
@@ -42,8 +56,8 @@ dbx.filesListFolder({path: '/audio/'}).then(response => {
             'title': title.replace("#","?"),
             'speaker': parts[2],
             'date_rev': date,
-            'date': dateFormat(new Date(date), 'dd/mm/yyyy'),
-            'date_pretty': dateFormat(new Date(date), 'dS mmm yyyy'),
+            'date': isDated(date) ? date : dateFormat(new Date(date), 'dd/mm/yyyy'),
+            'date_pretty': isDated(date) ? date : dateFormat(new Date(date), 'dS mmm yyyy'),
             'scripture': scripture,
             'path': null,
             'raw_path': entry.path_display,
