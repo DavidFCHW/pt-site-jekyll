@@ -51,7 +51,7 @@ dbx.filesListFolder({path: '/audio/'}).then(response => {
             console.log(parts); // to see if there are any filenames not following the custom format
         }
         let title = parts[4].replace(".mp3", "");
-        let scripture = parts[3].replace(".",":");
+        let scripture = parts[3].replace("/.",":");
         let obj = {
             'title': title.replace("#","?"),
             'speaker': parts[2],
