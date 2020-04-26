@@ -9,7 +9,11 @@ html {
         font-size: 4rem;
       }
     }
-
+    .container {
+      .sub-heading {
+        font-size: 2.5rem;
+      }
+    }
     .home-page {
       #main-jumbo {
         background-image: url("/assets/images/IMAG0100.jpg");
@@ -22,10 +26,6 @@ html {
         .container {
           padding-top: 80px;
         }
-      }
-
-      .sub-heading {
-        font-size: 2.5rem;
       }
 
       .service-title {

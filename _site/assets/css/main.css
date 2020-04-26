@@ -7600,6 +7600,8 @@ html {
     @media (max-width: 767.98px) {
       html body .display-1 {
         font-size: 4rem; } }
+    html body .container .sub-heading {
+      font-size: 2.5rem; }
     html body .home-page #main-jumbo {
       background-image: url("/assets/images/IMAG0100.jpg");
       background-size: cover;
@@ -7609,8 +7611,6 @@ html {
       background-position: center; }
       html body .home-page #main-jumbo .container {
         padding-top: 80px; }
-    html body .home-page .sub-heading {
-      font-size: 2.5rem; }
     html body .home-page .service-title {
       font-size: 1.5rem; }
     html body .nav-pills > a.active {

@@ -5,7 +5,21 @@ permalink: /contact/
 ---
 
 <div class="container">
-    <p>If you have any questions or enquiries about the bible or about the church, please feel free to email us at contactus@pilgrimtabernacle.co.uk or contact our minister John Sherwood via mobile on 07814507432.</p>
+    <p>If you have any questions or enquiries about the bible or about the church, please feel free to contact us via the details provided below:</p>
+
+    <div class='row'>
+        <div class='col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12'>
+            <h6 class='sub-heading display-4'>Email* <i class='fa fa-envelope'></i></h6>
+            <p>Church: contactus@pilgrimtabernacle.co.uk</p>
+            <p>Pastor: john.sherwood@hotmail.co.uk</p>
+        </div>
+        <div class='col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12'>
+            <h6 class='sub-heading display-4'>Phone <i class='fa fa-phone'></i></h6>
+            <p>Pastor: 07814507432</p>
+        </div>
+    </div>
+    <p class='mt-5'>*Regarding email it would be preferable to contact John directly as he would respond quicker.</p>
+
     <!--<form method="post" action="/_scripts/contact.php">
         <div class="form-row">
             <div class="form-group col-md-4">
